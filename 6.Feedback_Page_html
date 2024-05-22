@@ -6,7 +6,7 @@
 </head>
 <body>
     <h1>Feedback Form</h1>
-    <p>We value your feedback. Please let us know your thoughts.</p>
+    <p>We value your feedback. Please let us know your thoughts.It would be hightly appreciated if you do </p>
     
     <form action="submit_feedback.php" method="POST">
         <label for="name">Name:</label>
