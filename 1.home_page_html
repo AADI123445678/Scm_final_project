@@ -15,7 +15,7 @@
 </head>
 <body>
     <header>
-        <h1 style="text-align: center;"> Welcome to the Recipe Sharing Platform </h1>
+        <h1 style="text-align: center;"> Welcome to the Recipe Sharing Platform. Its our honour to meet you here with our amazing project for Recipe Sharing </h1>
         <nav>
             <ul style="display: flex;justify-content:center;padding-top: 10px;">
                 <li><a href="2.html"><i class="fa-solid fa-house" style="padding-right:20px;"></i></a></li>
