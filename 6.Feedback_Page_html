@@ -5,7 +5,7 @@
     <link rel="stylesheet" href="5.css">
 </head>
 <body>
-    <h1>Feedback Form</h1>
+    <h1>Feedback form</h1>
     <p>We value your feedback. Please let us know your thoughts.It would be hightly appreciated if you do.As all of us have worked hard on the project. your feedback will help us greatly </p>
     
     <form action="submit_feedback.php" method="POST">
